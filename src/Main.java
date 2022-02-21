@@ -3,8 +3,8 @@ class Main {
         boolean isGreenLight = false;
 
         int speedOfPlayer1 = 4;
-        int speedOfPlayer2 = 0;
-        int speedOfPlayer3 = 2;
+        int speedOfPlayer2 = 9;
+        int speedOfPlayer3 = 5;
 
         int eliminatedPlayers = 0;
 
