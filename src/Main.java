@@ -2,7 +2,7 @@ class Main {
     public static void main(String[] args) {
         boolean isGreenLight = false;
 
-        int speedOfPlayer1 = 5;
+        int speedOfPlayer1 = 4;
         int speedOfPlayer2 = 0;
         int speedOfPlayer3 = 2;
 
